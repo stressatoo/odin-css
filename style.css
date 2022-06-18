@@ -1,5 +1,17 @@
-.test
+div
+{
+    color: aqua;
+    font-size: x-large;
+}
+
+.testCLASS
 {
     color: red;
+    font-size: x-large;
+}
+
+#testID
+{
+    color: green;
     font-size: x-large;
 }
